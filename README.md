@@ -1,4 +1,4 @@
-# Implementation-of-Logistic-Regression-Using-Gradient-Descent
+[# Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
 ## AIM:
 To write a program to implement the the Logistic Regression Using Gradient Descent.
@@ -35,12 +35,14 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 13.Test the model with new input data.
 
 ## Program:
-```
-/*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: SINDHU PRIYA REDDY
-RegisterNumber:  212224040319
-*/
+
+Developed by: AKSHAYA V A
+
+RegisterNumber:  212224040019
+
+
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -126,3 +128,4 @@ print(y_prednew)
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
 
+](https://github.com/24000778/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/edit/main/README.md)
